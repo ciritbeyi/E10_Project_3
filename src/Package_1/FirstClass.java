@@ -6,4 +6,6 @@ public class FirstClass {
     }
 
     // Line 1
+
+    // Line2
 }
